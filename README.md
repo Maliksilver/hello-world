@@ -1,6 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-Hello! I'm a results-driven professional passionate about helping businesses grow and succeed in the digital world. With expertise spanning email marketing, eCommerce, and digital marketing, I specialize in creating strategies that drive traffic, boost sales, and establish strong customer relationships.
+Hello! I'm Abdulmalik Sales, a results-driven professional passionate about helping businesses grow and succeed in the digital world. With expertise spanning email marketing, eCommerce, and digital marketing, I specialize in creating strategies that drive traffic, boost sales, and establish strong customer relationships.
 
 What I Bring to the Table
 Email Marketing
